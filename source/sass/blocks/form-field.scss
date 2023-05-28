@@ -128,7 +128,7 @@
   &::after {
     content: "";
     position: absolute;
-    mask-image: url("../../img/sprite.svg#mail");
+    mask-image: url("../img/sprite.svg#mail");
     width: 20px;
     height: 20px;
     background-color: $color-nero;
@@ -168,7 +168,7 @@
   &::after {
     content: "";
     position: absolute;
-    mask-image: url("../../img/sprite.svg#phone");
+    mask-image: url("../img/sprite.svg#phone");
     width: 20px;
     height: 20px;
     background-color: $color-nero;

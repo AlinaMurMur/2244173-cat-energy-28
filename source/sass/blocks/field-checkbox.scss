@@ -56,7 +56,7 @@
 
 .field-checkbox__input[type="checkbox"]:checked + .field-checkbox__mark {
   &::before {
-    background-image: url("../../img/sprite.svg#check-green");
+    background-image: url("../img/sprite.svg#check-green");
     background-repeat: no-repeat;
     background-position: 50% 50%;
     position: absolute;

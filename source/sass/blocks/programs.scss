@@ -21,7 +21,7 @@
 
   &::after {
     content: "";
-    mask: url("../../img/sprite.svg#arrow-hover");
+    mask: url("../img/sprite.svg#arrow-hover");
     background-color: $color-black;
     width: 24px;
     height: 12px;
@@ -82,7 +82,7 @@
     &::before {
       content: "";
       position: absolute;
-      background-image: url("../../img/sprite.svg#cat-weight-mobile");
+      background-image: url("../img/sprite.svg#cat-weight-mobile");
       background-repeat: no-repeat;
       top: 50%;
       transform: translateY(-50%);
@@ -101,7 +101,7 @@
       &::before {
         content: "";
         display: block;
-        background-image: url("../../img/sprite.svg#cat-weight-mobile");
+        background-image: url("../img/sprite.svg#cat-weight-mobile");
         width: 100px;
         height: 106px;
       }
@@ -112,7 +112,7 @@
     &::before {
       content: "";
       position: absolute;
-      background-image: url("../../img/sprite.svg#cat-mass-mobile");
+      background-image: url("../img/sprite.svg#cat-mass-mobile");
       background-repeat: no-repeat;
       top: 50%;
       transform: translateY(-50%);
@@ -131,7 +131,7 @@
       &::before {
         content: "";
         display: block;
-        background-image: url("../../img/sprite.svg#cat-mass-mobile");
+        background-image: url("../img/sprite.svg#cat-mass-mobile");
         width: 134px;
         height: 100px;
         left: -19px;
@@ -166,7 +166,7 @@
       &::before {
         content: "";
         position: absolute;
-        background-image: url("../../img/sprite.svg#cat-weight-mobile");
+        background-image: url("../img/sprite.svg#cat-weight-mobile");
         background-repeat: no-repeat;
         top: 37%;
         transform: translateY(-50%);
@@ -188,7 +188,7 @@
       &::before {
         content: "";
         position: absolute;
-        background-image: url("../../img/sprite.svg#cat-mass-mobile");
+        background-image: url("../img/sprite.svg#cat-mass-mobile");
         background-repeat: no-repeat;
         top: 42%;
         transform: translateY(-50%);

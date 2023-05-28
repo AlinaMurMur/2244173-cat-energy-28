@@ -72,7 +72,7 @@
     &::before {
       content: "";
       position: absolute;
-      background-image: url("../../img/sprite.svg#sheet");
+      background-image: url("../img/sprite.svg#sheet");
       background-color: #68b738;
       background-repeat: no-repeat;
       background-position: center;
@@ -90,7 +90,7 @@
         height: 80px;
       }
 
-      background-image: url("../../img/1.png");
+      background-image: url("../img/1.png");
       background-repeat: no-repeat;
       background-position: 125px 40px;
     }
@@ -100,7 +100,7 @@
     &::before {
       content: "";
       position: absolute;
-      background-image: url("../../img/sprite.svg#powder");
+      background-image: url("../img/sprite.svg#powder");
       background-color: #68b738;
       background-repeat: no-repeat;
       background-position: center;
@@ -118,7 +118,7 @@
         height: 80px;
       }
 
-      background-image: url("../../img/2.png");
+      background-image: url("../img/2.png");
       background-repeat: no-repeat;
       background-position: 125px 40px;
     }
@@ -128,7 +128,7 @@
     &::before {
       content: "";
       position: absolute;
-      background-image: url("../../img/sprite.svg#food");
+      background-image: url("../img/sprite.svg#food");
       background-color: #68b738;
       background-repeat: no-repeat;
       background-position: center;
@@ -146,7 +146,7 @@
         height: 80px;
       }
 
-      background-image: url("../../img/3.png");
+      background-image: url("../img/3.png");
       background-repeat: no-repeat;
       background-position: 125px 40px;
     }
@@ -156,7 +156,7 @@
     &::before {
       content: "";
       position: absolute;
-      background-image: url("../../img/sprite.svg#time");
+      background-image: url("../img/sprite.svg#time");
       background-color: #68b738;
       background-repeat: no-repeat;
       background-position: center;
@@ -174,7 +174,7 @@
         height: 80px;
       }
 
-      background-image: url("../../img/4.png");
+      background-image: url("../img/4.png");
       background-repeat: no-repeat;
       background-position: 125px 40px;
     }
